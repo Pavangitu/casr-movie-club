@@ -1,0 +1,7 @@
+{
+  "name": "CaSR Movie Club",
+  "description": "Premium, cinematic movie club management and creative production platform for CaSR Movie Club — featuring five creative zones, task allocation, project workflows, reels tracker, social calendar, events, and weekly reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
